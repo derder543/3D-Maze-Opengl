@@ -17,9 +17,9 @@ How to Play :
 Can Edit Map to modify Map_easy.txt or Map_hard.txt
 
 Map file example
+
 3
 1 1 1
-
 1 1 1
 1 1 1
 1 0 1
